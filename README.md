@@ -7,5 +7,5 @@ In this group project we like to find answers for these three questions.<br>
 We will be using Python Pandas and Matplotlib to find the answers for our question.<br>
 <br>
 <br>
-P.S. this is a reupload of group project. TEKM Team members: Eric Wu, Tan DuongKaren, Galindo Choudhary, Monte Rodriguez
+P.S. this is a reupload of group project. TEKM Team members: Eric Wu, Tan Duong, Karen Galindo Choudhary, Monte Rodriguez
 
