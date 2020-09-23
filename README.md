@@ -1,1 +1,1 @@
-# COVID-19-Data-Project
+# UCI_Analytics_Project1
