@@ -10,7 +10,9 @@ In this group project we like to find answers for these three questions.<br>
   * Pandas
   * Matplotlib
   * Numpy 
+  * Scipy.stats
+  * Datetime
+  * Pyplot
 <br>
 <br>
 P.S. this is a reupload of group project. TEKM Team members: Eric Wu, Tan Duong, Karen Galindo Choudhary, Monte Rodriguez
-
